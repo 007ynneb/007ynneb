@@ -1,0 +1,4 @@
+- 👋 ola, meu nome é @benny007
+- :+1: Meu email de contato é benny.marinho@escola.pr.gov.br
+- 🌱 Eu estou interessado em aprender a programar novas linguagens.
+- 💞️ Eu estou aprendendo a programar recentemente a linguagem de JavaSript e Scratch.
